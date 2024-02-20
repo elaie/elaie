@@ -14,8 +14,8 @@
 
 ###
 
-<p align="left">I'm Sanskar from Nepal<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning AI/ML<br>- ⚡ In my free time I try to learn something new</p>
-<img align="right" alt="coding" width="200" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
+<p align="left">I'm Sanskar from Nepal<br><br>- 🔭 I’m working as a Software Engineer<br>- ⚡ In my free time I try to learn something new</p>
+<img align="right" alt="coding" width="200" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
 
 ###
 
