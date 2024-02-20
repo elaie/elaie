@@ -15,7 +15,7 @@
 ###
 
 <p align="left">I'm Sanskar from Nepal<br><br>- 🔭 I’m working as a Software Engineer<br>- ⚡ In my free time I try to learn something new</p>
-<img align="right"  src="https://aligned.blob.core.windows.net/productimage/coding-typing.gif">
+<img align="right"  src="https://aligned.blob.core.windows.net/productimage/coding-typing.gif"/>
 
 
 ###
