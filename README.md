@@ -11,8 +11,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4800&lines=Sup+👋;+I'm+Sanskar-Shrestha!;+Computer+Engineer;" />
 </h1>
 
-<h1 align="center">sup 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AshwinSunuwarr2.AshwinSunuwarr2" />
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elaie.elaie" />
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
