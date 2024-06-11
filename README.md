@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://aligned.blob.core.windows.net/productimage/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg"  />
+  <img height="300" src="https://aligned.blob.core.windows.net/images/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg"  />
 </div>
 
 ###
